@@ -13,3 +13,7 @@ Keep your code shallow - Name all of your functions and have them follow a strai
 Modularize - follow a design pattern or have multiple single responsibility documents rather then just one giant one.
 
  Handle every single error - When coding address every error as you go rather then moving on, also make sure to set up functions or catches to find any potential issues.
+
+
+ ## Daily challenge:
+  https://justincarpenter2020.github.io/Myth-Trivia/

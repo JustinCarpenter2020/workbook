@@ -8,3 +8,9 @@ Rest stands for REpresentational State Transfer. Rest is essentially a design pa
 Stateless means that the api doesn't remember anything about the user, any interactions or gets are not recorded. It doesn't remember any of the resources the user wants. 
 ## What URL pattern is used when writing a RESTful api?
 Endpoint pattern is used when writing RESTful apis. Essentially this means that the end of the url will redirect the user based on the api. Endpoints allow for multiple uses of the api. 
+
+
+ ## Daily challenge: 
+ https://justincarpenter2020.github.io/SJ-Music/.
+
+ 

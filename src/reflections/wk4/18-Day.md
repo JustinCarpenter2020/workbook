@@ -8,3 +8,7 @@ Once the async keyword is added to the start of a function then that function wi
 
 ## What are some of the primary benefits of async/await?
  The code is much easier to read, it's cleaner, you can do multiple async functions in a series, and it's better for overall debugging purposes.
+
+
+ ## Daily challenge: 
+ https://justincarpenter2020.github.io/pokedex/.

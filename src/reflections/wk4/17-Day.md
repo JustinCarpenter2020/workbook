@@ -13,3 +13,6 @@ Promises allow multiple callbacks to be done by chaining promises together. This
 ## What is the difference between .then() and .catch()?
 .then() is for completed promises, so if the promise is accepted that piece of code will execute.
 .catch() is for failed promises, if the process fails then catch() will catch the error. 
+
+ ## Daily challenge: 
+  https://justincarpenter2020.github.io/Gregslist-Server/.
