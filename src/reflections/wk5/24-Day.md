@@ -1,4 +1,4 @@
-# Day 18
+# Day 24
 __1/14/21__
 
 ## What is a virtual property?
