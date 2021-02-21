@@ -27,3 +27,7 @@ __2/15/21__
 
 ## In your own words how do Reference types get stored in memory? How does this differ from Value types?
 Reference types when stored the variable holding that memory has an address on where to find the actual value. Where as in value types that memory is stored directly on the variable which means it has a defined value.
+
+
+daily Project:
+https://github.com/JustinCarpenter2020/cSharpGregslist
