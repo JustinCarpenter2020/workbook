@@ -8,3 +8,5 @@ You can set the value to something other then the default. By doing this you can
 ## How have you used Enums in your afternoon lab projects this far?(if you have not yet, give an example of how you could)
 I haven't used enums in my afternoon labs yet, however they seem to be a useful tool. I would use enums in the case that I have variables that need to be assigned a value but still have names to access. For example monitoring weather and by typing temperature.low, medium, or high will return the associated value. 
 
+daily project:
+https://github.com/JustinCarpenter2020/cSharpGregslist

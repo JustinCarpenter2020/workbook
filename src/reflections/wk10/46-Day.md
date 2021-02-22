@@ -30,4 +30,4 @@ Reference types when stored the variable holding that memory has an address on w
 
 
 daily Project:
-https://github.com/JustinCarpenter2020/cSharpGregslist
+https://github.com/JustinCarpenter2020/C--Rock-Paper-Scissors
