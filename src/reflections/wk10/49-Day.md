@@ -16,3 +16,6 @@ CREATE TABLE Characters (
 ### DELETE FROM table_name;
 ### DROP TABLE table_name;
 Delete from table name will delete all the data within that collection. While Drop Table will delete that entire collection table.
+
+daily project:
+https://github.com/JustinCarpenter2020/burgerShack
