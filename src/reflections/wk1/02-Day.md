@@ -1,4 +1,4 @@
-# Day 2
+# CSS Specificity and Pseudo Classes
 __12/1/20__
 
 ## What is a Pseudo-Class and what are some of the most common ones you think you will use
@@ -19,10 +19,6 @@ Specificity allows for a webpage or application to be designed very intricately 
 
 ## What problems do you think you could run into if you over-utilized the !important feature?
 The important feature adds an astronomically high specificity to the css rule it is attached to. Using the tag means that one couldn't easily adjust the css of the code. This could lead to problems editing or presenting the code, if a client wishes to change slightly that attribute it must be done from the html and not the css. Now if the !important tag is scattered throughout the html then adjusting anything from the css sheet will become challenging causing more grief then it's worth for the the dev and their team. Overall, it's a bad practice that disorganizes code and breaks the single responsibility rule for code.
-
-## link to daily project
-https://justincarpenter2020.github.io/Radical-Website-Practice/
-
 
 
 ## Helpful Video of The Day
